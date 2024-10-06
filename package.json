@@ -1,0 +1,18 @@
+{
+  "name": "royalty-management",
+  "version": "1.0.0",
+  "description": "Ethereum-based Royalty Management System",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  },
+  "devDependencies": {
+    "truffle": "^5.5.0"
+  }
+}
